@@ -47,7 +47,7 @@ six==1.11.0
 SQLAlchemy==1.2.10
 SQLAlchemy-Utils==0.33.3
 standardjson==0.3.1
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 webhooks==0.4.2
